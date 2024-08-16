@@ -7,9 +7,9 @@ body {
   font-family: Figtree;
   text-align: center;
 }
-h1 [
+h1 {
    color: --tcolor;
-]
-p [
+}
+p {
    color: --tcolor;
-]
+}
