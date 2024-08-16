@@ -8,8 +8,8 @@ body {
   text-align: center;
 }
 h1 {
-   color: tcolor;
+   color: var(--tcolor);
 }
 p {
-   color: tcolor;
+   color: var(--tcolor);
 }
