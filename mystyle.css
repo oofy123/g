@@ -6,6 +6,10 @@ body {
   background-color: hsla(222, 16%, 24%, 0.648);
   font-family: Figtree;
   text-align: center;
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 h1 {
    color: var(--tcolor);
